@@ -1,0 +1,13 @@
+Copyright text changed
+Added new member to Council Page
+Gallery now supports albums
+Two new albums added
+Few minor layout fixes
+New images added to gallery
+
+25/7/2013
+History Removed from index.html
+Some CSS styling changes and fixes
+Education.html & library.html updated to new format
+Council.html updated
+All pages updated to work with new CSS

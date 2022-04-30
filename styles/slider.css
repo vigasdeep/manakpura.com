@@ -1,0 +1,27 @@
+/* This file is property of Globe Technologies. All Rights Reserved. Developed by Globe Technologies. */
+
+body  {
+	background-color : #f4f4f1;
+	font-family : Verdana;
+	font-size : 12pt;
+	margin : 0px;
+}
+a {
+	color : #0066cc;
+	text-decoration : none;
+}
+a:hover img {
+	box-shadow : 0px 0px 15px #4194cc;
+	color : #fff;
+}
+img {
+	border-width : 0px;
+}
+#contentarea {
+	padding : 13px;
+	position : absolute;
+	top : 295px;
+}
+.item {
+	margin-top : 25px;
+}
